@@ -66,7 +66,6 @@ El diseño está optimizado para diferentes tamaños de pantalla utilizando medi
 Para más información sobre los conceptos utilizados en este proyecto, consulta los siguientes recursos:
 
 - [Documentación de JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-- [Vídeos de la cátedra](https://youtube.com/playlist?list=PLRFOqDrY-6nv3CexiAXxWTc3y09Dk1BJa&si=szlRtH4LxMnY_qZX)
 
 ## Presentación
 
